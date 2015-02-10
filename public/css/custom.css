@@ -1,0 +1,20 @@
+.numvisit[number="0"] td{
+	background: white;
+	color: black;
+}
+.numvisit[number="1"] td{
+	background: red;
+	color: white;
+}
+.numvisit[number="2"] td{
+	background: blue;
+	color: white;
+}
+.numvisit[number="3"] td{
+	background: orange;
+	color: white;
+}
+.numvisit td{
+	background: green;
+	color: white;
+}
